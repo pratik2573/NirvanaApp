@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ClinicLoginFragment"
+    tools:context=".Clinics.ClinicLoginFragment"
     android:orientation="vertical"
     android:id="@+id/login_clinic_fragment">
     <ImageView
@@ -93,7 +93,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="5dp"
         android:layout_gravity="center_horizontal">
         <TextView
             android:layout_width="wrap_content"
